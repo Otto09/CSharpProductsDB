@@ -1,0 +1,7 @@
+C:\IAP\PAC#\Exemple\ProductsDB\bin\Debug\ProductsDB.exe.config
+C:\IAP\PAC#\Exemple\ProductsDB\bin\Debug\ProductsDB.exe
+C:\IAP\PAC#\Exemple\ProductsDB\bin\Debug\ProductsDB.pdb
+C:\IAP\PAC#\Exemple\ProductsDB\obj\Debug\ProductsDB.csprojAssemblyReference.cache
+C:\IAP\PAC#\Exemple\ProductsDB\obj\Debug\ProductsDB.csproj.CoreCompileInputs.cache
+C:\IAP\PAC#\Exemple\ProductsDB\obj\Debug\ProductsDB.exe
+C:\IAP\PAC#\Exemple\ProductsDB\obj\Debug\ProductsDB.pdb
